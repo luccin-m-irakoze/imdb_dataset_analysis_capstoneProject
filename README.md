@@ -1,4 +1,4 @@
-# 🎬 IMDb Movie Ratings Analysis
+# IMDb Movie Ratings Analysis
 
 **Course**: INSY 8413 – Introduction to Big Data Analytics  
 **Academic Year**: 2024–2025, Semester III  
@@ -8,13 +8,13 @@
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This project explores trends in IMDb movie ratings using open public datasets. The goal was to identify key factors that influence whether a movie is highly rated (IMDb score ≥ 7) and to build a predictive model using Python. Visual insights were created using Power BI.
 
 ---
 
-## 🗃 Dataset Details
+## Dataset Details
 
 - **Title**: IMDb Open Data  
 - **Source**: [IMDb Datasets](https://www.imdb.com/interfaces/)  
@@ -25,9 +25,9 @@ This project explores trends in IMDb movie ratings using open public datasets. T
 
 ---
 
-## 🧪 Python Analysis (Jupyter Notebook)
+## Python Analysis (Jupyter Notebook)
 
-### ✅ Steps Completed:
+### Steps Completed:
 1. **Data Cleaning**:
    - Filtered for movies only
    - Dropped rows with missing values
@@ -49,7 +49,7 @@ Notebook: [`imdb_analysis.ipynb`](./imdb_analysis.ipynb)
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 ### Features:
 - Line chart: Rating trends over years
