@@ -1,9 +1,13 @@
-# IMDb Movie Ratings Analysis
+# **IMDb Movie Ratings Analysis**
 
 **Course**: INSY 8413 – Introduction to Big Data Analytics  
+
 **Academic Year**: 2024–2025, Semester III  
+
 **Lecturer**: Eric Maniraguha  
+
 **Student**: Munezero Irakoze Luccin
+
 **Sector**: Entertainment  
 
 ---
