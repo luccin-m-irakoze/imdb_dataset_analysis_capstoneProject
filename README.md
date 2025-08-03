@@ -49,7 +49,7 @@ This project explores trends in IMDb movie ratings using open public datasets. T
    - **Recall (High Rated)**: 72%
 4. **Exported cleaned and predicted data** for Power BI
 
-Notebook: [`imdb_analysis.ipynb`](./imdb_analysis.ipynb)
+Notebook: [`imdb_analysis.ipynb`](./data_prep.ipynb)
 
 ---
 
@@ -78,17 +78,24 @@ Power BI file: [`imdb_dashboard.pbix`](./imdb_dashboard.pbix)
 
 ## How to Run
 
-1. Open `imdb_analysis.ipynb` in Jupyter Notebook or VS Code
+1. Open `data_prep.ipynb` in Jupyter Notebook or VS Code
 2. Run all cells to clean, analyze, and model the data
-3. Load `imdb_cleaned.csv` or `imdb_predictions.csv` into Power BI
+3. Load `imdb_predictions.csv` into Power BI
 4. Open `imdb_dashboard.pbix` to view interactive visuals
 
 ---
 
-## Screenshots (optional)
+## Screenshots 
 
 Add screenshots of your:
-- Python output (plots)
+
+- Python output (plots):
+<img width="1083" height="537" alt="image" src="https://github.com/user-attachments/assets/251a3c7e-f5f2-4f7d-b548-9585a531d294" />
+<img width="774" height="572" alt="image" src="https://github.com/user-attachments/assets/8afda0a8-06c6-4dee-a932-43b573fff774" />
+<img width="982" height="724" alt="image" src="https://github.com/user-attachments/assets/c1ddf697-aefd-461b-af5f-cc0ca1194e3f" />
+<img width="981" height="730" alt="image" src="https://github.com/user-attachments/assets/746036e8-8962-4216-991a-ff348d80f3cb" />
+<img width="1088" height="642" alt="image" src="https://github.com/user-attachments/assets/091e31be-4976-4b1b-9b6e-cc04a003c9ab" />
+
 - Power BI dashboard
 
 ---
