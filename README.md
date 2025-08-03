@@ -49,7 +49,7 @@ This project explores trends in IMDb movie ratings using open public datasets. T
    - **Recall (High Rated)**: 72%
 4. **Exported cleaned and predicted data** for Power BI
 
-Notebook: [`imdb_analysis.ipynb`](./data_prep.ipynb)
+Notebook: data_prep.ipynb
 
 ---
 
@@ -63,7 +63,7 @@ Notebook: [`imdb_analysis.ipynb`](./data_prep.ipynb)
 - Slicers: Year, Genre, Rating Category
 - KPI Cards: Average rating, total high-rated movies
 
-Power BI file: [`imdb_dashboard.pbix`](./imdb_dashboard.pbix)
+Power BI file: imdb_dashboard.pbix
 
 ---
 
