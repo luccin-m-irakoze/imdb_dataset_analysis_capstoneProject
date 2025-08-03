@@ -97,16 +97,26 @@ Add screenshots of your:
 <img width="1088" height="642" alt="image" src="https://github.com/user-attachments/assets/091e31be-4976-4b1b-9b6e-cc04a003c9ab" />
 
 - Power BI dashboard
+<img width="1353" height="771" alt="image" src="https://github.com/user-attachments/assets/491f1a0e-57c1-4a49-b8b9-6bd9f61071f0" />
+<img width="668" height="776" alt="image" src="https://github.com/user-attachments/assets/e221b071-828f-4fae-908d-443fe9f645c3" />
+<img width="1373" height="770" alt="image" src="https://github.com/user-attachments/assets/ac3e2511-1075-45bb-9fdf-f281c48e7cd8" />
+<img width="1291" height="770" alt="image" src="https://github.com/user-attachments/assets/f0f59a14-c132-420b-9f04-ec75e29c00a5" />
+<img width="1374" height="964" alt="image" src="https://github.com/user-attachments/assets/13c7ad1a-f938-45d7-b8c7-69d8938b9796" />
 
 ---
 
-## Submission Summary
+## Project Structure
 
-- Jupyter notebook
-- Power BI dashboard
-- Cleaned dataset
-- GitHub repo with README
-- PowerPoint presentation
+    /data/
+        imdb_predictions.csv
+    /notebooks/
+        data_prep.ipynb  
+    /powerbi/
+        imdb_dashboard.pbix      
+    /presentation/
+        capstone_slides.pptx    
+    README.md
+
 
 ---
 
