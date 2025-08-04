@@ -87,8 +87,6 @@ Power BI file: imdb_dashboard.pbix
 
 ## Screenshots 
 
-Add screenshots of your:
-
 - Python output (plots):
 <img width="1083" height="537" alt="image" src="https://github.com/user-attachments/assets/251a3c7e-f5f2-4f7d-b548-9585a531d294" />
 <img width="774" height="572" alt="image" src="https://github.com/user-attachments/assets/8afda0a8-06c6-4dee-a932-43b573fff774" />
